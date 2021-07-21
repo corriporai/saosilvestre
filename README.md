@@ -1,4 +1,4 @@
-Sao Silvestre Brazilian Race Raw Data
+São Silvestre Brazilian Race Raw Data
 ==================================================
 
 This repository contains, as close as I can manage, all of the data on the São Silvestre Brazilian Race.
